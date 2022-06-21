@@ -1,0 +1,17 @@
+.blue{
+    color: blue;
+}
+.cards{
+    display: flex;
+    justify-content:space-around;
+    text-align:left;
+    float:left;
+   
+}
+.Divgeral_sectionUm{
+    display: flex;
+}
+.Divgeral_sectionDois{
+    display: flex;
+    justify-content:space-around;
+}
